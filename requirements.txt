@@ -13,3 +13,5 @@ sentence_transformers
 chromadb
 langchain_huggingface
 faiss-cpu
+langchain_chroma
+
